@@ -1,0 +1,14 @@
+
+>
+java:S1643"Use a StringBuilder instead.(èÍâ¿øÿÿÿÿ8„¡›ùÏ1
+>
+java:S1643
+"Use a StringBuilder instead.(ÁÁØÇşÿÿÿÿ8„¡›ùÏ1
+>
+java:S1643"Use a StringBuilder instead.(Ü¼îúÿÿÿÿ8„¡›ùÏ1
+>
+java:S1643"Use a StringBuilder instead.(şäÒíûÿÿÿÿ8„¡›ùÏ1
+S
+java:S1153"1Directly append the argument of String.valueOf().(şäÒíûÿÿÿÿ8…¡›ùÏ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(î”Ñ©8›¡›ùÏ1
