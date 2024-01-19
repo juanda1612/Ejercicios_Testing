@@ -19,12 +19,7 @@ public class CamelCase {
     public static void main(String[] args) {
         // solución
        String palabra = teclado.nextLine();
-        for (int i = 0; i < palabra.length(); i++) {
-            if (palabra.contains("-")){
-                palabra.replace("-", " ");
-            }
-        }
-        System.out.println(palabra);
+
 
 
     }

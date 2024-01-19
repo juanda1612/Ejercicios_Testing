@@ -1,5 +1,9 @@
 
 €
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "cadena".(‚Š‘üùÿÿÿÿ8ûÎùÏ1
-B
-java:S1172	",Remove this unused method parameter "texto".(èñú
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "cadena".(‚Š‘üùÿÿÿÿ8×ŸÖïÑ1
+X
+java:S1854";Remove this useless assignment to local variable "palabra".(êöúÁ8“Ç½–Ò1
+I
+java:S1481",Remove this unused "palabra" local variable.(êöúÁ8–Ç½–Ò1
+I
+java:S1172",Remove this unused method parameter "texto".(èñú8æŸÖïÑ1
