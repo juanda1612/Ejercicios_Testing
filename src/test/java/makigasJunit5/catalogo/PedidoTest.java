@@ -1,6 +1,7 @@
 package makigasJunit5.catalogo;
 
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -26,9 +27,17 @@ class PedidoTest {
         Producto p1 = new Producto("Coco", 400);
         Producto p2 = new Producto("Canela", 200);
 
+        System.out.println("Prueba antes de meter productos");
         Pedido p = new Pedido();
+        assertEquals(0, p.cantidad());
+
+        System.out.println("Prueba despues de meter 1 productos");
         p.agregar(p1);
+        assertEquals(1, p.cantidad());
+
+        System.out.println("Prueba despues de meter 2 productos");
         p.agregar(p2);
+        assertEquals(2, p.cantidad());
     }
 
     @Test
