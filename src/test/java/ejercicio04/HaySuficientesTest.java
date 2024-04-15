@@ -1,5 +1,6 @@
 package ejercicio04;
 
+import ejercicios.ejercicio04.HaySuficientes;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

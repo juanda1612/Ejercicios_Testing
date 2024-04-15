@@ -1,4 +1,4 @@
-package Ejercicio01;
+package ejercicios.Ejercicio01;
 
 public class FizzBuzz {
     public static String fizzBuzz(){

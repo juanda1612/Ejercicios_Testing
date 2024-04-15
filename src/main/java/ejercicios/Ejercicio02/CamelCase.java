@@ -1,4 +1,4 @@
-package Ejercicio02;
+package ejercicios.Ejercicio02;
 /*
 Camel Case
 Completa el método de manera que convierta palabras delimitadas por guiones/barras bajas en notación camel case.

@@ -1,8 +1,8 @@
 package ejercicio03;
 
+import ejercicios.ejercicio03.LosSaltosDeMario;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;

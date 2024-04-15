@@ -1,4 +1,4 @@
-package ejercicio03;
+package ejercicios.ejercicio03;
 
 public class LosSaltosDeMario {
 

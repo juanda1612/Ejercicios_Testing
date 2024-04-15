@@ -1,4 +1,4 @@
-package ejercicio04;
+package ejercicios.ejercicio04;
 
 
 public class HaySuficientes {

@@ -1,3 +1,5 @@
+package ejemplosSueltos;
+
 import java.util.Scanner;
 
 public class SaliendoDeLaCrisis {

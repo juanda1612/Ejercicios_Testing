@@ -1,6 +1,6 @@
 package Ejercicio01;
 
-import Ejercicio01.FizzBuzz;
+import ejercicios.Ejercicio01.FizzBuzz;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
