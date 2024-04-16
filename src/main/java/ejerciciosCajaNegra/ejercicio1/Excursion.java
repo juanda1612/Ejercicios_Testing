@@ -17,9 +17,25 @@ public class Excursion {
 
     // metodos de instancia
     public double calcularPrecioAlumno(){
-        return 0;
+        if (numeroAlumnos >= 100){
+            return 65;
+        }else if (numeroAlumnos >= 50 && numeroAlumnos <= 99){
+            return 70 ;
+        } else if (numeroAlumnos >= 30 && numeroAlumnos <= 49) {
+            return 95;
+        }else {
+            return 4000/numeroAlumnos;
+        }
     }
     public double calcularCosteExcursion(){
-        return 0;
+        if (numeroAlumnos >= 100){
+            return 100 *65;
+        }else if (numeroAlumnos >= 50 && numeroAlumnos <= 99){
+            return 50 *70 ;
+        } else if (numeroAlumnos >= 30 && numeroAlumnos <= 49) {
+            return 30 *95;
+        }else {
+            return 4000;
+        }
     }
 }
